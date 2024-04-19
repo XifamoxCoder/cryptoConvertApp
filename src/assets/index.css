@@ -1,0 +1,10 @@
+body {
+  background: burlywood;
+  min-width: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  margin-top: 100px;
+}
